@@ -32,3 +32,11 @@ This project implements a ViT-based Vision–Language Model trained using contra
 - Kaggle GPU
 
 ## 📌 Example Query
+"man riding bicycle near beach"
+
+## 📎 Notes
+This project focuses on retrieval-based vision–language understanding and does not generate new images.
+
+## 👤 Author
+Dhruv Parikh
+
